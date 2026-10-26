@@ -1,0 +1,23 @@
+# Runtime dependencies
+Flask==2.3.3
+Flask-SQLAlchemy==3.1.1
+Werkzeug==2.3.7
+SQLAlchemy>=2.0.36
+python-dotenv==1.0.0
+
+# Runtime tools
+gunicorn==21.2.0
+
+# Testing dependencies
+nose2==0.14.1
+factory-boy==3.3.1
+coverage==7.4.0
+
+# Behavior Driven Development
+behave==1.2.6
+selenium==4.15.2
+compare==0.2b0
+requests==2.31.0
+
+# ChromeDriver management
+webdriver-manager==4.0.1
